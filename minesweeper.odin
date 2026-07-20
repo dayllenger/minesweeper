@@ -52,10 +52,10 @@ main :: proc() {
 	rl.SetTargetFPS(60)
 	rl.SetMouseScale(1, 1)
 
-	cell_tex = rl.LoadTexture("icons/cell.png"); assert(rl.IsTextureValid(cell_tex))
-	digits_tex = rl.LoadTexture("icons/digits.png"); assert(rl.IsTextureValid(digits_tex))
-	faces_tex = rl.LoadTexture("icons/faces.png"); assert(rl.IsTextureValid(faces_tex))
-	numbers_tex = rl.LoadTexture("icons/numbers.png"); assert(rl.IsTextureValid(numbers_tex))
+	cell_tex = create_icon_texture(#load("icons/cell.png"))
+	digits_tex = create_icon_texture(#load("icons/digits.png"))
+	faces_tex = create_icon_texture(#load("icons/faces.png"))
+	numbers_tex = create_icon_texture(#load("icons/numbers.png"))
 
 	for !rl.WindowShouldClose() {
 		rl.BeginDrawing()
@@ -63,6 +63,15 @@ main :: proc() {
 		main_loop()
 		rl.EndDrawing()
 	}
+}
+
+create_icon_texture :: proc(png: []u8) -> rl.Texture2D {
+	img := rl.LoadImageFromMemory(".png", raw_data(png), i32(len(png)))
+	assert(rl.IsImageValid(img))
+	tex := rl.LoadTextureFromImage(img)
+	assert(rl.IsTextureValid(tex))
+	rl.UnloadImage(img)
+	return tex
 }
 
 get_window_size :: proc(level: DifficultyLevel) -> (i32, i32) {
