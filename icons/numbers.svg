@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="512"
+   viewBox="0 0 64 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="numbers.svg"
+   inkscape:export-filename="numbers.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showborder="true"
+     borderlayer="true"
+     inkscape:zoom="1.0717087"
+     inkscape:cx="-99.840562"
+     inkscape:cy="250.06795"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#00000000" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="48.171989"
+       id="text17">1</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="112.17195"
+       id="text16">2</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="176.17192"
+       id="text15">3</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#000080;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="240.17188"
+       id="text14">4</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#800080;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="304.17185"
+       id="text13">5</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#008080;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="368.17181"
+       id="text12">6</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="432.17178"
+       id="text11">7</text>
+    <text
+       style="font-size:53.33330154px;line-height:1.2;font-family:Hack;-inkscape-font-specification:'Hack, Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:2;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="16.101572"
+       y="496.17174"
+       id="text10">8</text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.6px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Normal';letter-spacing:-1.44px;word-spacing:5px;writing-mode:lr-tb;direction:ltr;fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+       x="144.16231"
+       y="222.07527"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"></tspan></text>
+  </g>
+</svg>

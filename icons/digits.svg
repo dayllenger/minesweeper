@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="484"
+   viewBox="0 0 24 484"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="digits.svg"
+   inkscape:export-filename="digits.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showborder="true"
+     borderlayer="true"
+     inkscape:zoom="1"
+     inkscape:cx="-183"
+     inkscape:cy="191"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#00000000" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7">
+      <path
+         id="rect1"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="use2"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="use3"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="use4"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="use5"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="use6"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path6"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g13"
+       transform="translate(0,44)">
+      <path
+         id="path7"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path8"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path9"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path10"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path11"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path12"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path13"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g26"
+       transform="translate(0,88)">
+      <path
+         id="path20"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path21"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path22"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path23"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path24"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path25"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path26"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g33"
+       transform="translate(0,132)">
+      <path
+         id="path27"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path28"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path29"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path30"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path31"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path32"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path33"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g40"
+       transform="translate(0,176)">
+      <path
+         id="path34"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path35"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path36"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path37"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path38"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path39"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path40"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g47"
+       transform="translate(0,220)">
+      <path
+         id="path41"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path42"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path43"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path44"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path45"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path46"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path47"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g54"
+       transform="translate(0,264)">
+      <path
+         id="path48"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path49"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path50"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path51"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path52"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path53"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path54"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g61"
+       transform="translate(0,308)">
+      <path
+         id="path55"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path56"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path57"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path58"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path59"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path60"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path61"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g68"
+       transform="translate(0,352)">
+      <path
+         id="path62"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path63"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path64"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path65"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path66"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path67"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path68"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g75"
+       transform="translate(0,396)">
+      <path
+         id="path69"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path70"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path71"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path72"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path73"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path74"
+         style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path75"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g82"
+       transform="translate(0,440)">
+      <path
+         id="path76"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,2 H 22 L 19,5 H 5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path77"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,21.5 V 3 l 3,3 v 12.5 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path78"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="m 22,3 v 18.5 l -3,-3 V 6 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path79"
+         style="fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,42 H 2 l 3,-3 h 14 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path80"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2,41 V 22.5 l 3,3 V 38 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path81"
+         style="display:inline;fill:#2b0000;fill-rule:evenodd;stroke-width:3"
+         d="M 22,22.5 V 41 L 19,38 V 25.5 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path82"
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:3"
+         d="M 2.8,22 5,19.8 H 19 L 21.2,22 19,24.2 H 5 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
+</svg>
