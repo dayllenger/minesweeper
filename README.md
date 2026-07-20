@@ -2,7 +2,7 @@ This is a clone of Minesweeper from Windows XP, written as an exercise in Odin u
 
 <img width="500" alt="screenshot" src="screenshot.png" />
 
-It does not have sounds. The images were drawn in Inkscape.
+It does not have sounds. Icons were drawn in Inkscape.
 
 ## Build
 
@@ -11,6 +11,11 @@ You need [Odin](https://odin-lang.org/) compiler installed.
 Run in the project's directory:
 ```
 odin run .
+```
+
+For “JUST MAKE AN .EXE FILE AND GIVE IT TO ME”, run:
+```
+odin build . -o:size
 ```
 
 *WARNING*: The window may appear tiny. Raylib does not handle window scaling very well at the moment.
